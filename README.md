@@ -5,7 +5,7 @@ This WordPress demo site uses the [Advanced Custom Fields](http://wordpress.org/
 ## Talk
 This Demo has been shown on WordPress Sydney Meetup (11/Jun/2015)
 
-Slides: [bit.ly/wpsydacf](http://bit.ly/wpsydacf/)
+Slides: [bit.ly/wpsydacf](http://bit.ly/wpsydacf)
 
 ## Install
 
