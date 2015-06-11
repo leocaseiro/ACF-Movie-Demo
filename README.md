@@ -5,7 +5,7 @@ This WordPress demo site uses the [Advanced Custom Fields](http://wordpress.org/
 ## Talk
 This Demo has been shown on WordPress Sydney Meetup (11/Jun/2015)
 
-Slides: [http://tinyurl.com/wpsydacf/](http://tinyurl.com/wpsydacf/)
+Slides: [bit.ly/wpsydacf](http://bit.ly/wpsydacf/)
 
 ## Install
 
@@ -23,4 +23,3 @@ Slides: [http://tinyurl.com/wpsydacf/](http://tinyurl.com/wpsydacf/)
 * Copy the content from *wp-content/themes/acf-movie/_acf-fields-import/viaphp.php* to your **functions.php** file
 
 ## For Support, [open an Issue](https://github.com/leocaseiro/ACF-Movie-Demo/issues) or tweet me [@leocaseiro](http://twitter.com/leocaseiro)
-
