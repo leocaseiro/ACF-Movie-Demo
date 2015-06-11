@@ -1,0 +1,11 @@
+/*
+Theme Name: ACF Movie
+Author: Leo Caseiro
+Description: Child Theme for ACF Movies
+Version: 0.1
+Template: twentyfifteen
+*/
+
+@import url('../twentyfifteen/style.css');
+
+.entry-content > ul:last-child > li { float:left ; margin-right: 10px;}
